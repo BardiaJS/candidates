@@ -1,0 +1,42 @@
+.tick-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+   text-align: center;
+   color: rgb(41, 241, 41);font-family: 'Alkatra', cursive;
+    font-family: 'Borel', cursive;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
+.result-div{
+    color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result-btn{
+    background-color: green;
+    border: none;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Borel', cursive;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
+.result-btn:hover{
+    background-color: rgb(90, 133, 90);
+}

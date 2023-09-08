@@ -1,0 +1,58 @@
+.title{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Borel', cursive;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
+
+
+.president-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.president-name{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
+
+
+.reg-div{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.reg-div button{
+    border: none;
+    background-color: rgb(26, 211, 26);
+}
+.president-text{
+    font-size: 13px;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
+.reg-div button:hover{
+    background-color: rgb(106, 179, 106);
+}
+
